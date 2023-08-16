@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'RamSong Daily',
   author: 'RamSong',
-  email: 'cnramsong@outlook.com',
+  email: 'zaixiaram@outlook.com',
   link: 'https://ram.wang',
   description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
